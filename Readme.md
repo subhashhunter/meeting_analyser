@@ -3,7 +3,7 @@
 AI-powered sales call transcript analyzer. Paste a transcript → get detected signals (buying interest, objections, confusion, stalling) with one-line coaching tips.
 
 ## LLM Used
-**Google Gemini 3.5 Flash** — accessed via the OpenAI-compatible Gemini API endpoint using the `openai` Node.js SDK.
+**gemini-3.5-flash** — accessed via the OpenAI-compatible Gemini API endpoint using the `openai` Node.js SDK.
 
 ## Stack
 - **Backend**: Node.js + Express 
